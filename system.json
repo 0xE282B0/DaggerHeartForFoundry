@@ -17,15 +17,13 @@
     "styles": [
         "static/css/main.css"
     ],
-    "packs": [
+    "packs": [],
+    "languages": [
         {
             "lang": "en",
             "name": "English",
             "path": "static/lang/en.json"
         }
-    ],
-    "languages": [
-
     ],
     "gridDistance": 5,
     "gridUnits": "ft",
