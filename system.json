@@ -25,6 +25,7 @@
             "path": "static/lang/en.json"
         }
     ],
+    "download":"https://github.com/0xE282B0/DaggerHeartForFoundry/archive/refs/heads/feat-build.zip",
     "gridDistance": 5,
     "gridUnits": "ft",
     "primateryTokenAttribute": "hit points",
